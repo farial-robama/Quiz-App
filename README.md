@@ -10,7 +10,7 @@
 </div>
 
 <h3 align="center">
-          Live Project : https://ask-quiz.netlify.app/
+          Live Project : https://quiz-app-xyzwq.netlify.app/
 </h3>
 <br />
 
@@ -19,6 +19,7 @@
 
 - **Frontend:** HTML,CSS,React Js, Java Script, Bootstrap, Chakra UI 
 - **Version Control:** Git and GitHub
+
 
 
 
